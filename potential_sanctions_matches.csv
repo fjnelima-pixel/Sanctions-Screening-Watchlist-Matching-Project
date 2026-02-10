@@ -1,0 +1,6 @@
+customer_id,customer_name,sanctioned_name,sanctioning_body,match_score,risk_level
+3,Mohamed Abdalla,Mohamed Abdallah,OFAC,0.97,High Risk – Likely Match
+6,Ahmed Ali,Ahmed Ali,UN,1.0,High Risk – Likely Match
+9,Hassan Omar,Hassan Omar,EU,1.0,High Risk – Likely Match
+16,Abdul Rahman,Abdul Rahman,OFAC,1.0,High Risk – Likely Match
+20,Yusuf Ali,Yusuf Ali,UN,1.0,High Risk – Likely Match
